@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+scikit-learn
+pubchempy
+rdkit
+stmol
+ipywidgets==7.7.2  # Compatible version
+ipython-genutils==0.2.0
+
